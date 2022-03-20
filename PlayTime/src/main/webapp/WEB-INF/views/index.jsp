@@ -16,7 +16,7 @@
 	</ul>
 </div>
 <div>
-	<h1>지금 이 파일은 2회 실험작입니다!</h1>
+	<h1>지금 이 파일은 5회 실험작입니다!</h1>
 </div>
 <div style="top: 3rem;">
 	<c:if test="${sessionScope.member !=null}">
