@@ -15,6 +15,9 @@
 		<li><a href="sales/">출고관리</a></li>
 	</ul>
 </div>
+<div>
+	<h1>지금 이 파일은 1회 실험작입니다!</h1>
+</div>
 <div style="top: 3rem;">
 	<c:if test="${sessionScope.member !=null}">
 			<div>

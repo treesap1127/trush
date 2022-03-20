@@ -32,4 +32,5 @@ public class RootController {
 		return "redirect:/login";
 	}
 	
+	
 }
