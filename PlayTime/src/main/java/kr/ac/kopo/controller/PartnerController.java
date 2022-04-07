@@ -45,7 +45,7 @@ public class PartnerController {
 		service.update(item);
 		return "redirect:../list";
 	}
-	
+	 
 	
 	@GetMapping("/delete/{code}")
 	public String delete(@PathVariable int code) {
