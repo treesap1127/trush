@@ -38,7 +38,7 @@ public class PartnerController {
 	public String update(@PathVariable int code,Model model) {
 		Partner item = service.item(code);
 		model.addAttribute("item", item);
-		return path+"update";
+		return path+"update"; 
 	}
 	@PostMapping("/update/{code}")
 	public String update(@PathVariable int code,Partner item) {
