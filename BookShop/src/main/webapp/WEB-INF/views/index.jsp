@@ -12,6 +12,7 @@
   <li><a href="book/list">도서 관리</a> </li>
   <li><a href="customer/list">고객 관리</a> </li>
   <li><a href="orders/list">주문 관리</a> </li>
+  <div> hellow world</div>
 </ul>
 <div>세번쨰파일</div>
 </div>
